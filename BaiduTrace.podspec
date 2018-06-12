@@ -8,5 +8,5 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => 'https://github.com/BaiduLBS/BaiduMapKit.git', :tag =>'3.0.6'  }
   spec.platform     = :ios, '9.3'
   spec.vendored_frameworks = 'BaiduTraceSDK.framework'
-  spec.description = 'BaiduTrace SDK'
+  spec.description  = 'BaiduTrace SDK'
 end
